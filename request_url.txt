@@ -1,0 +1,2 @@
+NBU API request
+https://bank.gov.ua/NBU_Exchange/exchange_site?start=20220707&end=20220719&valcode=usd&sort=exchangedate&order=asc&json
